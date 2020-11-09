@@ -1,0 +1,4 @@
+{ "name" : "dataStoreRequestProcessor",
+  "version" : "alpha-001",
+  "description" : "Simple Datastore Request Processor"
+}

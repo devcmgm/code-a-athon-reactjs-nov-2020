@@ -1,0 +1,4 @@
+{ "name" : "backendRequestProcessor",
+  "version" : "alpha-001",
+  "description" : "Simple Backend Request Processor"
+}
