@@ -1,4 +1,8 @@
-{ "name" : "dataStoreRequestProcessor",
-  "version" : "alpha-001",
-  "description" : "Simple Datastore Request Processor"
+{
+  "name": "dataStoreRequestProcessor",
+  "version": "alpha-001",
+  "description": "Simple Datastore Request Processor",
+  "dependencies": {
+    "pouchdb": "^7.2.2"
+  }
 }
